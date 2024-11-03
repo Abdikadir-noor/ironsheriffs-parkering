@@ -1,0 +1,21 @@
+
+	"ParkingSpots": 100,
+	"VehicleTypes": [
+		{
+			"Type": "CAR",
+			"Size": 4
+		},
+		{
+			"Type": "MC",
+			"Size": 2
+		},
+		{
+			"Type": "BUS",
+			"Size": 16
+		},
+		{
+			"Type": "BICYCLE",
+			"Size": 1
+		}
+	]
+}
