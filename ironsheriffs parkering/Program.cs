@@ -145,7 +145,7 @@ class MainProgram
         }
         catch (Exception ex)
         {
-            AnsiConsole.MarkupLine($"[red]Fel vid inläsning eller skapande av prislistan: {ex.Message}[/]");
+            AnsiConsole.MarkupLine($"[red]fel vid inläsning eller skapande av prislistan: {ex.Message}[/]");
             return null;
         }
     }
